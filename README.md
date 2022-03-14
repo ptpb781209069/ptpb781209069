@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ptpb781209069
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cycling
+- 🌱 I’m currently learning R and GitHub
+- 📫 Email: zhanghs@sioc.ac.cn
+
+- ありがとうございます！
 
 <!---
 ptpb781209069/ptpb781209069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
