@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R and GitHub
 - 📫 Email: zhanghs@sioc.ac.cn
 
-- ありがとうございます！
+- ありがとう！感謝します！
 
 <!---
 ptpb781209069/ptpb781209069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
