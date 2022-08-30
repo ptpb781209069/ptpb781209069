@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ptpb781209069
 - 👀 I’m interested in cycling
-- 🌱 I’m currently learning R and GitHub
+- 🌱 I’m currently learning R, python and GitHub
 - 📫 Email: zhanghs@sioc.ac.cn
 
 - よろしく！
